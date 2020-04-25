@@ -33,5 +33,5 @@ START.cpp este fisierul C++ care "include" cele trei fisiere de mai sus, obtinan
 In concluzie, auxxx.cpp, shuffle.cpp si radix.cpp sunt optionale pentru a rula corect, cele necesare sunt toate fisierele in/out (in afara de lucrul spus la sectiunea INPUT, dar nu recomand) si START.cpp.
 
 ## Update-uri repo:
-UPDATE 23/04/2020: Am schimbat mai toate declararile intenger in long. Se pare ca acest program suporta maxim 517944 elemente (cel putin testat pe masina mea).
-UPDATE 26/04/2020: Am formatat mai bine readme-ul, urmez sa pun si pe engleza.
+UPDATE 23/04/2020: Am schimbat mai toate declararile intenger in long. Se pare ca acest program suporta maxim 517944 elemente (cel putin testat pe masina mea). <br>
+UPDATE 26/04/2020: Am formatat mai bine readme-ul, urmez sa pun si pe engleza. <br>
