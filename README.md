@@ -1,4 +1,4 @@
-Program pentru a demonstra radix sort-ul.
+# Program pentru a demonstra radix sort-ul. #
 
 Poti sa rulezi START.cpp (-recomandat) sau, pe rand, auxxx.cpp, shuffle.cpp si radix.cpp.
 
