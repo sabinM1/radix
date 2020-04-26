@@ -56,8 +56,8 @@
 **RO**: radix.out este cel final, ar trebui fie exact la fel cu shuffle.in daca sortarea/generarea a fost facuta corecta.
 
 ## Disclaimer(s):
-##### EN: I do not own any unmodified part(s) of the original code(s) from the source(s) below. The license applies only to the modified part(s).
-##### RO: Nu detin nimic ce este nemodificat din codul/codurile originale din sursa/sursele de mai jos. Licenta se aplica doar la partea/partile modificate din cod/coduri.
+##### EN: I do not own any unmodified part(s) of the original code(s) from the source(s) below. The license applies only to the modified part(s). You should have a copy of the [WTFPL][wtfpl] license along with this file.
+##### RO: Nu detin nimic ce este nemodificat din codul/codurile originale din sursa/sursele de mai jos. Licenta se aplica doar la partea/partile modificate din cod/coduri. Ar trebui sa ai o copie a licentei [WTFPL][wtfpl] impreuna cu acest fisier.
 **EN**: The radix sorting algorithm was **modified from** [**Rosetta Code**][rcr]. <br>
 **RO**: Algoritmul de sortare tip radix a fost **modificat de pe** [**Rosetta Code**][rcr]. <br> <br>
 **EN**: The shuffling algorithm (Knuth shuffle) was **modified also from** [**Rosetta Code**][rcs]. <br>
@@ -83,3 +83,4 @@
 [msd]: https://en.wikipedia.org/wiki/Radix_sort#Most_significant_digit
 [rcr]: http://rosettacode.org/wiki/Sorting_algorithms/Radix_sort#C.2B.2B
 [rcs]: http://rosettacode.org/wiki/Knuth_shuffle#C.2B.2B
+[wtfpl]: http://www.wtfpl.net/about/
