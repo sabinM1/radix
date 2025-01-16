@@ -44,15 +44,16 @@ void msd_radix_sort(int *first, int *last, int msb = 31) {
 // test radix_sort
 int main() {
   clock_t tStart = clock();
-  int data[1000];
-  for (int i = 0; i < 1000; i++) {
-    fin >> data[i]; // rfin
+  int data[517944];
+  int n = 0;
+  while(fin>>data[n]) {
+    ++n;
   }
 
-  lsd_radix_sort(data, data + 1000);
+  lsd_radix_sort(data, data + n);
   // msd_radix_sort(data, data + 8);
 
-  std::copy(data, data + 1000, std::ostream_iterator<int>(fout, " ")); // rrfout
+  std::copy(data, data + n, std::ostream_iterator<int>(fout, " ")); // rrfout
   printf("\n\nTimp: %.2f ms\n", (double)(clock() - tStart));
   return 0;
 }
